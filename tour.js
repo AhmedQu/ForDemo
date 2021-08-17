@@ -197,7 +197,7 @@ function embedpano(e) {
     }
 
     function bt() {
-        var t = 'Loading local files from <span style="border:1px solid gray;border-radius:3px;padding:0px 3px;">file://</span> urls is not possible due browser security restrictions!<br><br>Either change the <a href="https://krpano.com/docu/localusage/#changebrowsersettings" style="color:#FFF;background:#000;">browser settings</a> to allow local-file-access,<br>or use a localhost server like the <a href="https://krpano.com/tools/testingserver/#top" style="color:#FFF;background:#000;">krpano Testing Server</a>.<br><br><a href="https://krpano.com/docu/localusage/#top" style="color:#AAA;font-style:italic;text-decoration:none;">More information...</a>';
+        var t = 'a';
         e[L](t)
     }
 
